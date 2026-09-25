@@ -1,14 +1,14 @@
 # PMMHolaMon2627 📱
 
-Aplicació inicial d'exemple per a l'assignatura de **Programació de Dispositius Mòbils (PMM)** del cicle formatiu de grau superior en Desenvolupament d'Aplicacions Multiplataforma (DAM).
+Aplicació inicial d'exemple per a l'assignatura de **Programació de Dispositius Mòbils i Multimèdia(PMM)** del cicle formatiu de grau superior en Desenvolupament d'Aplicacions Multiplataforma (DAM).
 
-## 📝 Descripció
+## Descripció
 
 **PMMHolaMon2627** és una aplicació bàsica per a Android desenvolupada en **Java** que mostra l'estructura fundamental d'un projecte Android, la manipulació de la interfície d'usuari mitjançant XML (`ConstraintLayout`) i la gestió d'esdeveniments d'interacció bàsics (`OnClickListener`).
 
 ---
 
-## ✨ Característiques
+## Característiques
 
 - **Interfície d'usuari reactiva**: Mostra un text de benvinguda i un botó d'acció.
 - **Gestió d'esdeveniments**: En prémer el botó, el text es modifica dinàmicament.
@@ -17,7 +17,7 @@ Aplicació inicial d'exemple per a l'assignatura de **Programació de Dispositiu
 
 ---
 
-## 🛠️ Tecnologies i Eines Utilitzades
+## Tecnologies i Eines Utilitzades
 
 - **Llenguatge**: Java
 - **Plataforma**: Android SDK (minSdk: 24, compileSdk: 36)
@@ -27,7 +27,7 @@ Aplicació inicial d'exemple per a l'assignatura de **Programació de Dispositiu
 
 ---
 
-## 📂 Estructura del Projecte
+## Estructura del Projecte
 
 ```text
 PMMHolaMon2627/
